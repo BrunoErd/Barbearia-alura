@@ -1,15 +1,27 @@
-body{
+body {
     background: #CCCCCC
 }
 
-h1{
+#mydrugs123 {
+    width: 100%
+}
+
+h1 {
     text-align: center "
 }
 
-p{
+p {
     text-align: center;
 }
 
- strong{
+#missao {
+    font-size: 20px
+}
+
+em strong {
     COLOR: #FF0000;
+}
+
+.itens {
+    font-style: italic;
 }
